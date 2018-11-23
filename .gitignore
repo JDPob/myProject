@@ -1,5 +1,4 @@
-.idea
+.idea/:
 *.log
-target
+/target/
 *.iml
-workspace.xml
